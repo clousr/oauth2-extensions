@@ -1,5 +1,5 @@
 # Deprecation note
-
+# this is now mine
 The [Chrome Identity API][identity] makes this drop-in library obsolete.
 
 [identity]: http://developer.chrome.com/apps/app_identity.html
